@@ -13,8 +13,8 @@ status:
   icon: ☕️
 
 # Organizations/Affiliations
-#organizations:
-#- name: 腾讯
+organizations:
+- name: JEONBUK NATIONAL UNIVERSITY
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
