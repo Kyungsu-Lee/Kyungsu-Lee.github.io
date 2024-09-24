@@ -6,7 +6,7 @@ title: 이경수
 superuser: true
 
 # Role/position
-role: ''
+role: 'sophormore'
 
 # Status emoji
 status:
